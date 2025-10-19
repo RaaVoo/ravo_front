@@ -1,10 +1,4 @@
-# 🌈 라보야 놀자 : Ravo
-
-<div align="center">
-
-**AI 기반 아동 감정·행동 분석 및 보고서 시각화 플랫폼**
-
-</div>
+# 🌈 라보야 놀자 : **AI 기반 아동 감정·행동 분석 및 보고서 시각화 플랫폼**
 
 ---
 
@@ -22,16 +16,6 @@
 ### 📁 Repository
 > **Frontend (전시용):** [jongeunny/Ravo_fe](https://github.com/RaaVoo/ravo-web)  
 > **Backend (전시용):** [jongeunny/Ravo_be](https://github.com/RaaVoo/ravo_back)
-
----
-
-## 👩‍💻 Collaborators
-
-| <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width=90px alt="원종은"/> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width=90px alt="팀원2"/> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width=90px alt="팀원3"/> |
-| :-----: | :-----: | :-----: |
-| **원종은 (Jongeun Won)** | 팀원2 | 팀원3 |
-| [@jongeunny](https://github.com/jongeunny) | [@member2](https://github.com/member2) | [@member3](https://github.com/member3) |
-| Backend, AI Integration | Frontend, UI Design | Hardware, System Control |
 
 ---
 
