@@ -4,8 +4,6 @@
 
 **AI 기반 아동 감정·행동 분석 및 보고서 시각화 플랫폼**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03aed2,100:feef0d&height=120&text=라보야%20놀자&fontColor=595959&fontSize=50" width=600px>
-
 </div>
 
 ---
@@ -19,16 +17,11 @@
 
 ### 🏆 Achievements
 > 🎓 **덕성여자대학교 졸업작품 전시회 출품**  
-> 🤖 **AI 감정/행동 분석 기능 개발 완료**  
-> 💡 **음성·영상 리포트 자동화 시스템 설계**  
-> 📄 **논문 초안: 아동 감정 데이터 기반 행동 분석 연구**
-
 ---
 
 ### 📁 Repository
-> **Main (개발용):** [RaaVoo/Ravo_](https://github.com/RaaVoo/Ravo_)  
-> **Frontend (전시용):** [jongeunny/Ravo_fe](https://github.com/jongeunny/Ravo_fe)  
-> **Backend (전시용):** [jongeunny/Ravo_be](https://github.com/jongeunny/Ravo_be)
+> **Frontend (전시용):** [jongeunny/Ravo_fe](https://github.com/RaaVoo/ravo-web)  
+> **Backend (전시용):** [jongeunny/Ravo_be](https://github.com/RaaVoo/ravo_back)
 
 ---
 
